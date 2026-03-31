@@ -31,7 +31,7 @@ Use these files to aid you in your use and dvelopment using the R-ArcGIS Bridge 
 - `{calcite}`: https://developers.arcgis.com/r-bridge/calcite/llms.txt
 
 
-## Deploying using ricochet.rs
+## Deploying using try.ricochet.rs
 
 To deploy your shiny app using ricochet, follow the [quickstart](https://docs.ricochet.rs/v0-4/user/quickstart/index.html) to install the ricochet cli.
 
@@ -41,3 +41,7 @@ To deploy your shiny app using ricochet, follow the [quickstart](https://docs.ri
 - Deploy with `ricochet deploy -S https://try.ricochet.rs`
 - Open the deployment log to watch packages install!
 - View the app!
+
+
+> [!CAUTION]
+> `try.ricochet.rs` is wiped weekly since it is a demo instance!
