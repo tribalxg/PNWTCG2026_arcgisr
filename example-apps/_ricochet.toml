@@ -1,5 +1,5 @@
 [content]
-id = "01KN26JDG43G4Q2PMDCK8FPWR5"
+# id = "01KN2C6P50430M2Z031JEAKXSA"
 name = "tcg-demo"
 entrypoint = "app.R"
 access_type = "external"
