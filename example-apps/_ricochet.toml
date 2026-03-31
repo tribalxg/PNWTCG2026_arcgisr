@@ -1,0 +1,16 @@
+[content]
+id = "01KN26JDG43G4Q2PMDCK8FPWR5"
+name = "tcg-demo"
+entrypoint = "app.R"
+access_type = "external"
+content_type = "shiny"
+
+[language]
+name = "r"
+packages = "renv.lock"
+
+[serve]
+min_instances = 0
+max_instances = 5
+spawn_threshold = 80
+max_connections = 10
